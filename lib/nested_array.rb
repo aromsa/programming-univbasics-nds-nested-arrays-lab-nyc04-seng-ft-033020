@@ -36,6 +36,7 @@ ORGANIC_PRODUCE:
   "Avocadoes",
   "Asparagus"]
   }
+  
 end
 
 def sorted_matrix
