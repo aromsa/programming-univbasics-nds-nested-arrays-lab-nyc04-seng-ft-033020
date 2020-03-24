@@ -28,7 +28,7 @@ def assembled_matrix
   "Watermelon",
   "Eggplant"}
 ]
-["Strawberries",
+[{:ORGANIC_PRODUCE => "Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
