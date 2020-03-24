@@ -33,8 +33,8 @@ def assembled_matrix
   "Grapes",
   "Avocadoes",
   "Asparagus"]
-  produce_storage_room
 end
+produce_storage_room
 
 def sorted_matrix
   # Using Array literal syntax only, build another nested array that 
