@@ -33,6 +33,7 @@ def assembled_matrix
   "Grapes",
   "Avocadoes",
   "Asparagus"]
+  produce_storage_room
 end
 
 def sorted_matrix
